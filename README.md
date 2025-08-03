@@ -2,8 +2,6 @@
   <img src="images/adaptive-code-intelligence-engine.png" alt="Adaptive Code Intelligence Engine Banner" width="100%" />
 </p>
 
-# Adaptive Code Intelligence Engine
-
 > **AI-Powered Code Analysis, Pattern Recognition, and Personalized Development Assistance**
 
 An advanced AI system that learns your coding patterns, predicts potential bugs, and provides intelligent suggestions to improve code quality and developer productivity. Built for mobile-first development with sophisticated pattern recognition and adaptive learning capabilities.
@@ -442,17 +440,11 @@ MIT License - see [LICENSE](LICENSE) file for details
 - **[Federated Learning Orchestrator](https://github.com/aiwithjusl/federated-learning-orchestrator)** - Privacy-preserving distributed AI training
 - **[AI DevToolBox](https://github.com/aiwithjusl/AI-DevToolBox)** - Comprehensive AI development toolkit
 
-## 📞 Contact
-
-<div align="center">
-
-**Justin Lane** | *AI/ML Developer & Code Intelligence Specialist*
-
-[![Email](https://img.shields.io/badge/Email-aiwithjusl.dev%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aiwithjusl.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Justin%20Lane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/justin-lane-69b960219)
-[![GitHub](https://img.shields.io/badge/GitHub-aiwithjusl-black?style=for-the-badge&logo=github)](https://github.com/aiwithjusl)
-
-</div>
+<h2>👤 About the Author</h2>
+  <p><strong>Justin Lane</strong><br/>
+  🔗 GitHub: <a href="https://github.com/aiwithjusl" target="_blank">@aiwithjusl</a><br/>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/justin-lane-69b960219" target="_blank">Justin Lane</a><br/>
+  📬 Email: <a href="mailto:aiwithjusl.dev@gmail.com">aiwithjusl.dev@gmail.com</a></p>
 
 ---
 
