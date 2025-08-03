@@ -6,8 +6,6 @@
 
 *Learn your patterns, predict bugs, suggest optimizations - all on your mobile device*
 
-</div>
-
 ---
 
 ## 🚀 What It Does
