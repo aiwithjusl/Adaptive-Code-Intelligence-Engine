@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="images/adaptive-code-intelligence-engine.png" alt="Adaptive Code Intelligence Engine Banner" width="100%" />
+</p>
 
 # Adaptive Code Intelligence Engine
 
